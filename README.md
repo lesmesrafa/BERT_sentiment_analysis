@@ -5,8 +5,8 @@ In this repository a sentiment analysis of a financial news text dataset is perf
 
   In a terminal write the following commands:
   ```console
-  foo@bar:~$ conda env create -f path_to_environment.yml_file -n environ
+  foo@bar:~$ conda env create -f absolute_path_to_environment.yml_file -n environ
   foo@bar:~$ conda activate environ
-  foo@bar:~$ jupyter-notebook your_path_to_BERT_sentiment_analysis.ipynb_file
+  foo@bar:~$ jupyter-notebook absolute_path_to_BERT_sentiment_analysis.ipynb_file
   ```
 
